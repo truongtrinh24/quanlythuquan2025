@@ -12,8 +12,6 @@ namespace quanlyThuQuan
         {
             ApplicationConfiguration.Initialize(); // Phải gọi trước
 
-            ExcelPackage.LicenseContext = LicenseContext.NonCommercial; // Sau khi đã init app
-
             Login loginForm = new Login();
             loginForm.ShowDialog();
 

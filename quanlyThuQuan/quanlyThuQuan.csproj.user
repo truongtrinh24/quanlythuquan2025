@@ -22,6 +22,15 @@
     <Compile Update="GUI\ThanhVien\UC_ThanhVien.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="GUI\ThietBi\Form_SuaThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\ThietBi\Form_ThemMQD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\ThietBi\Form_ThemThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="GUI\ThietBi\UC_ThietBi.cs">
       <SubType>UserControl</SubType>
     </Compile>

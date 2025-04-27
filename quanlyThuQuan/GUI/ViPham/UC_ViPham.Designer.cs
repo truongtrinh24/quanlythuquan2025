@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            dgvThietBi = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dgvThietBi).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -44,23 +42,13 @@
             label1.TabIndex = 0;
             label1.Text = "QUẢN LÝ THIẾT BỊ";
             // 
-            // dgvThietBi
-            // 
-            dgvThietBi.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvThietBi.Location = new Point(0, 388);
-            dgvThietBi.Name = "dgvThietBi";
-            dgvThietBi.Size = new Size(954, 265);
-            dgvThietBi.TabIndex = 1;
-            // 
             // UC_ViPham
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(dgvThietBi);
             Controls.Add(label1);
             Name = "UC_ViPham";
             Size = new Size(954, 654);
-            ((System.ComponentModel.ISupportInitialize)dgvThietBi).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -68,6 +56,5 @@
         #endregion
 
         private Label label1;
-        private DataGridView dgvThietBi;
     }
 }

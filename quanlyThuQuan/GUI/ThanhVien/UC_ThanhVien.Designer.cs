@@ -29,6 +29,7 @@ namespace quanlyThuQuan.GUI.ThanhVien
         /// </summary>
         private void InitializeComponent()
         {
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             label1 = new Label();
             label3 = new Label();
             txtSearchTV = new TextBox();
@@ -89,6 +90,14 @@ namespace quanlyThuQuan.GUI.ThanhVien
             // dgvThanhVien
             // 
             dgvThanhVien.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = Color.Wheat;
+            dataGridViewCellStyle1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle1.ForeColor = SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = Color.Wheat;
+            dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
+            dgvThanhVien.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             dgvThanhVien.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvThanhVien.Location = new Point(0, 376);
             dgvThanhVien.Name = "dgvThanhVien";
@@ -97,6 +106,7 @@ namespace quanlyThuQuan.GUI.ThanhVien
             dgvThanhVien.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dgvThanhVien.Size = new Size(929, 308);
             dgvThanhVien.TabIndex = 4;
+            dgvThanhVien.CellContentClick += dgvThanhVien_CellContentClick;
             // 
             // btnAddTV
             // 

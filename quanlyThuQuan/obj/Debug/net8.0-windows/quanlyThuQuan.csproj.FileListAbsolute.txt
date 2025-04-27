@@ -48,9 +48,12 @@ C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\Mi
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
-C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\System.Xml.XPath.XmlDocument.dll
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThanhVien.Form_ThemThanhVien.resources
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThanhVien.Form_SuaThanhVien.resources
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThanhVien.Form_CheckIn.resources
 C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThanhVien.Form_MuonTra.resources
+C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.sourcelink.json
+C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThietBi.Form_ThemThietBi.resources
+C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThietBi.Form_SuaThietBi.resources
+C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\bin\Debug\net8.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\PC\source\repos\quanlyThuQuan\quanlyThuQuan\obj\Debug\net8.0-windows\quanlyThuQuan.GUI.ThietBi.Form_ThemMQD.resources

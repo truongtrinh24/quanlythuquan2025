@@ -3,60 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thietbi\\uc_thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thietbi\\uc_thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\vipham\\uc_vipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\vipham\\uc_vipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\bus\\thanhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\bus\\thanhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thanhvien\\uc_thanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thanhvien\\uc_thanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\thanhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\thanhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thanhvien\\form_muontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thanhvien\\form_muontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\thanhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\thanhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlythuquan\\gui\\thanhvien\\uc_thanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thanhvien\\uc_thanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thanhvien\\form_muontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thanhvien\\form_muontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\bus\\bookingbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\bus\\bookingbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thietbi\\uc_thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thietbi\\uc_thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\devicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\devicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\bus\\devicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\bus\\devicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thietbi\\form_themthietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thietbi\\form_themthietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thietbi\\form_themthietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thietbi\\form_themthietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thietbi\\form_themmqd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thietbi\\form_themmqd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\devicestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\devicestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\gui\\thietbi\\form_themmqd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\gui\\thietbi\\form_themmqd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\bus\\categorydevicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\bus\\categorydevicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\categorydevicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\categorydevicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\categorydevicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\categorydevicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\bus\\bookingbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\bus\\bookingbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\bus\\thanhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\bus\\thanhvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dto\\thanhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dto\\thanhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\thanhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\thanhviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|c:\\users\\pc\\source\\repos\\quanlythuquan\\quanlythuquan\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973D842-7672-45F9-B074-9B1820CAD9FC}|quanlyThuQuan\\quanlyThuQuan.csproj|solutionrelative:quanlythuquan\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,78 +90,220 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UC_ViPham.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ViPham\\UC_ViPham.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ViPham\\UC_ViPham.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ViPham\\UC_ViPham.cs [Design]",
-              "RelativeToolTip": "quanlyThuQuan\\GUI\\ViPham\\UC_ViPham.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "DeviceStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\DeviceStatusDTO.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DTO\\DeviceStatusDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\DeviceStatusDTO.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DTO\\DeviceStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T06:04:00.43Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-26T20:21:44.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ThanhVienDAL.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
-              "RelativeToolTip": "quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
-              "ViewState": "AgIAALgAAAAAAAAAAAAqwNkAAAANAAAAAAAAAA==",
+              "Title": "Form_ThemMQD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs [Design]",
+              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:23:06.779Z",
+              "WhenOpened": "2025-04-26T19:17:12.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceBUS.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\DeviceBUS.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\BUS\\DeviceBUS.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\DeviceBUS.cs",
+              "RelativeToolTip": "quanlyThuQuan\\BUS\\DeviceBUS.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:46:28.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\DeviceDAL.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\DeviceDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\DeviceDAL.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DAL\\DeviceDAL.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAnwLAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:29:12.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDeviceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\CategoryDeviceDAL.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\CategoryDeviceDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\CategoryDeviceDAL.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DAL\\CategoryDeviceDAL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:27:09.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_ThietBi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs [Design]",
+              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:12:35.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_ThietBi.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs",
+              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThietBi\\UC_ThietBi.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAuwFABAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:12:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_ThemThietBi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs [Design]",
+              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:22:52.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_ThemThietBi.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs",
+              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemThietBi.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:22:53.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Form_MuonTra.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs [Design]",
-              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs [Design]",
+              "Title": "DeviceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\DeviceDTO.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DTO\\DeviceDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\DeviceDTO.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DTO\\DeviceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:48:43.5Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form_MuonTra.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs",
-              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThanhVien\\Form_MuonTra.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAADgv2kAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:55:12.767Z",
+              "WhenOpened": "2025-04-24T20:16:37.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UC_ThanhVien.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs",
-              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs",
-              "ViewState": "AgIAAFQBAAAAAAAAAAAYwHIBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Form_ThemMQD.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs",
+              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThietBi\\Form_ThemMQD.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:19:57.273Z",
+              "WhenOpened": "2025-04-26T19:29:24.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "CategoryDeviceBUS.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\CategoryDeviceBUS.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\BUS\\CategoryDeviceBUS.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\CategoryDeviceBUS.cs",
+              "RelativeToolTip": "quanlyThuQuan\\BUS\\CategoryDeviceBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:28:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryDeviceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\CategoryDeviceDTO.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DTO\\CategoryDeviceDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\CategoryDeviceDTO.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DTO\\CategoryDeviceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:21:54.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingBUS.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\BookingBUS.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\BUS\\BookingBUS.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\BookingBUS.cs",
+              "RelativeToolTip": "quanlyThuQuan\\BUS\\BookingBUS.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:29:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThanhVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
+              "RelativeToolTip": "quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAIBJwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:25:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\AccountDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DAL\\AccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:54:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ThanhVienDTO.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\ThanhVienDTO.cs",
               "RelativeDocumentMoniker": "quanlyThuQuan\\DTO\\ThanhVienDTO.cs",
@@ -150,20 +316,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThanhVienBUS.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
-              "RelativeToolTip": "quanlyThuQuan\\BUS\\ThanhVienBUS.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ThanhVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
+              "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
+              "RelativeToolTip": "quanlyThuQuan\\DAL\\ThanhVienDAL.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAqwNkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:25:14.852Z",
+              "WhenOpened": "2025-04-24T20:23:06.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\.gitignore",
               "RelativeDocumentMoniker": "quanlyThuQuan\\.gitignore",
@@ -176,58 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UC_ThanhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs [Design]",
-              "RelativeToolTip": "quanlyThuQuan\\GUI\\ThanhVien\\UC_ThanhVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:19:45.69Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeviceDTO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\DeviceDTO.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\DTO\\DeviceDTO.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\DeviceDTO.cs",
-              "RelativeToolTip": "quanlyThuQuan\\DTO\\DeviceDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:16:37.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DeviceDAL.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\DeviceDAL.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\DeviceDAL.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\DeviceDAL.cs",
-              "RelativeToolTip": "quanlyThuQuan\\DAL\\DeviceDAL.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAswB4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:29:12.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookingBUS.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\BookingBUS.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\BUS\\BookingBUS.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\BUS\\BookingBUS.cs",
-              "RelativeToolTip": "quanlyThuQuan\\BUS\\BookingBUS.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:29:56.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "BookingDAL.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DAL\\BookingDAL.cs",
               "RelativeDocumentMoniker": "quanlyThuQuan\\DAL\\BookingDAL.cs",
@@ -236,19 +351,6 @@
               "ViewState": "AgIAABUAAAAAAAAAAAArwDEAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T20:31:10.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookingDTO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\BookingDTO.cs",
-              "RelativeDocumentMoniker": "quanlyThuQuan\\DTO\\BookingDTO.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\quanlyThuQuan\\quanlyThuQuan\\DTO\\BookingDTO.cs",
-              "RelativeToolTip": "quanlyThuQuan\\DTO\\BookingDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T20:28:02.595Z",
               "EditorCaption": ""
             }
           ]
