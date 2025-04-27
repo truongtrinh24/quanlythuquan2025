@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\_Net\\vd\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj": {}
+    "C:\\Users\\Admin\\Documents\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj": {}
   },
   "projects": {
-    "E:\\_Net\\vd\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj": {
+    "C:\\Users\\Admin\\Documents\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_Net\\vd\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj",
         "projectName": "quanlyThuQuan",
-        "projectPath": "E:\\_Net\\vd\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\_Net\\vd\\quanlythuquan2025\\quanlyThuQuan\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\quanlythuquan2025\\quanlyThuQuan\\quanlyThuQuan.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\quanlythuquan2025\\quanlyThuQuan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,10 @@
             "EPPlus": {
               "target": "Package",
               "version": "[4.5.3.3, )"
+            },
+            "HIC.System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             },
             "MySql.Data": {
               "target": "Package",
