@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace quanlyThuQuan.DTO
 {
-    internal class BookingDTO
+    public class BookingDTO
     {
-        public int BookingId { get; set; } // Thêm thuộc tính này
+        public int BookingId { get; set; } 
         public int UserId { get; set; }
         public int DeviceId { get; set; }
         public DateTime StartTime { get; set; }

@@ -40,5 +40,8 @@
     <Compile Update="GUI\ViPham\UC_ViPham.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="GUI\ViPham\ViolateGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
