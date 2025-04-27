@@ -39,12 +39,40 @@ namespace quanlyThuQuan.GUI.ViPham
                 var bookings = _viPham.GetLateBookings();
                 dataViewBook.DataSource = bookings;
                 var expectedColumns = new[] { "BookingId", "UserId", "DeviceId", "StartTime", "EndTime", "Status", "CreatedAt", "ActualTime" };
+                
                 foreach (var col in expectedColumns)
                 {
                     if (dataViewBook.Columns.Contains(col))
                     {
-                        dataViewBook.Columns[col].HeaderText = col;
-                    }
+                        // Đặt tiêu đề tiếng Việt cho từng cột
+                        switch (col)
+                        {
+                            case "BookingId":
+                                dataViewBook.Columns[col].HeaderText = "Mã mượn";
+                                break;
+                            case "UserId":
+                                dataViewBook.Columns[col].HeaderText = "Mã người dùng";
+                                break;
+                            case "DeviceId":
+                                dataViewBook.Columns[col].HeaderText = "Mã thiết bị";
+                                break;
+                            case "StartTime":
+                                dataViewBook.Columns[col].HeaderText = "Thời gian mượn";
+                                break;
+                            case "EndTime":
+                                dataViewBook.Columns[col].HeaderText = "hạn trả";
+                                break;
+                            case "Status":
+                                dataViewBook.Columns[col].HeaderText = "Trạng thái";
+                                break;
+                            case "CreatedAt":
+                                dataViewBook.Columns[col].HeaderText = "Ngày tạo bill mượn";
+                                break;
+                            case "ActualTime":
+                                dataViewBook.Columns[col].HeaderText = "Thời gian trả thực tế";
+                                break;
+                            }
+                        }
                     else
                     {
                         MessageBox.Show($"Cột {col} không tồn tại trong DataGridView!");
@@ -68,7 +96,31 @@ namespace quanlyThuQuan.GUI.ViPham
                 {
                     if (viphamview.Columns.Contains(col))
                     {
-                        viphamview.Columns[col].HeaderText = col;
+                        // Đặt tiêu đề tiếng Việt cho từng cột
+                        switch (col)
+                        {
+                            case "ViolationId":
+                                viphamview.Columns[col].HeaderText = "Mã vi phạm";
+                                break;
+                            case "UserId":
+                                viphamview.Columns[col].HeaderText = "Mã người dùng";
+                                break;
+                            case "DeviceId":
+                                viphamview.Columns[col].HeaderText = "Mã thiết bị";
+                                break;
+                            case "BookingId":
+                                viphamview.Columns[col].HeaderText = "Mã mượn";
+                                break;
+                            case "Description":
+                                viphamview.Columns[col].HeaderText = "Mô tả";
+                                break;
+                            case "FineAmount":
+                                viphamview.Columns[col].HeaderText = "Số tiền phạt";
+                                break;
+                            case "ViolationTime":
+                                viphamview.Columns[col].HeaderText = "Thời gian vi phạm";
+                                break;
+                        }
                     }
                     else
                     {
